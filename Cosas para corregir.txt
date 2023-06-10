@@ -1,0 +1,3 @@
+corregir la validacion de la opcion de tipos de conversion, cuando se elije una opcion incorrecta primero pide el octal 
+y despues manda el mensaje de que la opcion es incorrecta.
+debe emitir el mensaje sin pedir el octal.
